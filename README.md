@@ -8,6 +8,6 @@
   - BI & self‑service — Tableau, Superset, Looker, QuickSight; training and handover.
 
 - 📫 How to reach me
-  - 🧑‍💼: https://www.upwork.com/freelancers/~0103424088a4d7c3b8?mp_source=share
+  - 🧑‍💼 https://www.upwork.com/freelancers/~0103424088a4d7c3b8?mp_source=share
   - :email: upjason165@gmail.com 
 
