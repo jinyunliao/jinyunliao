@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jinyunliao
+- 👋 Hi, I’m @jinyun
 
 💼 What I Specialize In
 
