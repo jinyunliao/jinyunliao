@@ -21,6 +21,6 @@
 * Real‑Time Analytics: Kafka, Flink, and Spark Structured Streaming for sub‑second scoring and live data ingestion (e.g., Clover POS).
 * Optimization: Cost reduction via S3/GCP partition tuning, EMR serverless, and query optimization.
 
-- 📫 How to reach me
+
 
 
