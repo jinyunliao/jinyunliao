@@ -22,5 +22,5 @@
 * Optimization: Cost reduction via S3/GCP partition tuning, EMR serverless, and query optimization.
 
 - 📫 How to reach me
-  - :email: upjason165@gmail.com 
+
 
